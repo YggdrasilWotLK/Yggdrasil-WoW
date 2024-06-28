@@ -11,7 +11,7 @@ When reporting an issue, please ensure that you include:
 **4. Proof:** Screenshots/videos, so our testers have material to verify and test further.  
 **5. Reproduction steps:** Describe what you did to produce the issue.  
 <br><br>
-All set? Great! Please proceed to [the issues page](https://github.com/Yggdrasil-WoW/Yggdrasil-WoW/issues) and create your issue by selecting the green "New issue" button.
+All set? Great! Please proceed to [the issues page](Yggdrasil-WoW/issues) and create your issue by selecting the green "New issue" button.
 <br><br><br>
 Please only report issues pertaining to gameplay versus its intended state. Change suggestions and issues related to your account, the website, etc. are handled in our [Discord server](https://discord.gg/PCcCWFBdTQ) or through the contact form in [our website](https://yggdrasilwow.com/page/contact).
 <br><br><br>
