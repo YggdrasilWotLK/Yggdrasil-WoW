@@ -1,0 +1,12 @@
+blank_issues_enabled: false
+contact_links:
+
+  - name: Have you reviewed the instructions?
+    url: https://github.com/Yggdrasil-WoW/Yggdrasil-WoW/
+    about: If not, please click here. 
+  - name: Have you checked if the bug already exists?
+    url: https://github.com/Yggdrasil-WoW/Yggdrasil-WoW/issues
+    about: If not, please search through existing issues to see if it has already been reported. 
+  - name: Are you trying to report an issue related to your account or share a suggestion?
+    url: https://discord.gg/PCcCWFBdTQ
+    about: Please direct such queries to our Discord server or website
